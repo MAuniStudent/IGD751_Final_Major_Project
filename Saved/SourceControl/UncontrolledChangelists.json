@@ -6,7 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/CBP_SandboxCharacter.uasset"
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/CBP_SandboxCharacter.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/M_Concrete.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/ConcreteNormal.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Concrete.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Concrete_Occlusion.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Concrete_HeightMap.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Materials/M_Concrete.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Materials/M_Concrete_Inst.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
 			]
 		}
 	]
