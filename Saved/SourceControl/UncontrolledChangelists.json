@@ -7,14 +7,31 @@
 			"files": [
 				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/CBP_SandboxCharacter.uasset",
-				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/M_Concrete.uasset",
 				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/ConcreteNormal.uasset",
 				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Concrete.uasset",
 				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Concrete_Occlusion.uasset",
 				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Concrete_HeightMap.uasset",
 				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Materials/M_Concrete.uasset",
 				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Materials/M_Concrete_Inst.uasset",
-				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/M_ConcreteTwo.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Concrete2_HeightMap.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Concrete2.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Concrete2Normal.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Concrete2_Occlusion.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Materials/M_ConcreteTwo.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Materials/M_Concrete_Inst1.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Materials/M_ConcreteTwo_Inst.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/M_Plaster.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Plaster_Occlusion.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Plaster_Hieght.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Plaster_Normal.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/Plaster.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Materials/M_Plaster.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Materials/M_Plaster_Inst.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"D:/FALMOUTH/IGD751_Final_Major_Project/Content/Blueprints/Textures/M_Concrete.uasset"
 			]
 		}
 	]
